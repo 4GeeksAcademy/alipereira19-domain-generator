@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+h1 {
+  background: greenyellow;
+}
+
+body {
+  background: white;
+}
